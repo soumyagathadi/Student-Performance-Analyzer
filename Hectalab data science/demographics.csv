@@ -1,0 +1,1001 @@
+Student_ID,Gender,Parent_Education,Lunch_Type
+S0001,Female,PhD,Standard
+S0002,Female,PhD,Standard
+S0003,Male,Master,Standard
+S0004,Male,Master,Standard
+S0005,Female,High School,Standard
+S0006,Male,PhD,Free/Reduced
+S0007,Female,Master,Standard
+S0008,Male,Bachelor,Free/Reduced
+S0009,Male,Bachelor,Free/Reduced
+S0010,Male,High School,Standard
+S0011,Male,Bachelor,Standard
+S0012,Female,Bachelor,Free/Reduced
+S0013,Male,Bachelor,Standard
+S0014,Male,Bachelor,Standard
+S0015,Male,Bachelor,Standard
+S0016,Male,High School,Free/Reduced
+S0017,Male,PhD,Free/Reduced
+S0018,Female,High School,Free/Reduced
+S0019,Female,High School,Standard
+S0020,Female,High School,Standard
+S0021,Male,Master,Free/Reduced
+S0022,Male,Master,Free/Reduced
+S0023,Male,High School,Standard
+S0024,Male,High School,Free/Reduced
+S0025,Female,Bachelor,Free/Reduced
+S0026,Female,High School,Standard
+S0027,Male,Bachelor,Standard
+S0028,Male,High School,Standard
+S0029,Male,Bachelor,Free/Reduced
+S0030,Male,Bachelor,Standard
+S0031,Female,Bachelor,Standard
+S0032,Male,Bachelor,Standard
+S0033,Female,High School,Free/Reduced
+S0034,Male,High School,Free/Reduced
+S0035,Female,High School,Free/Reduced
+S0036,Female,High School,Standard
+S0037,Male,PhD,Standard
+S0038,Female,High School,Standard
+S0039,Male,High School,Standard
+S0040,Female,High School,Standard
+S0041,Male,Master,Free/Reduced
+S0042,Female,Master,Standard
+S0043,Female,Master,Standard
+S0044,Female,Bachelor,Standard
+S0045,Male,Master,Free/Reduced
+S0046,Female,Bachelor,Standard
+S0047,Male,Master,Standard
+S0048,Female,Master,Standard
+S0049,Female,High School,Standard
+S0050,Male,Bachelor,Standard
+S0051,Male,High School,Standard
+S0052,Male,High School,Free/Reduced
+S0053,Female,Master,Standard
+S0054,Female,High School,Standard
+S0055,Female,Bachelor,Standard
+S0056,Male,PhD,Standard
+S0057,Female,Bachelor,Standard
+S0058,Male,Bachelor,Standard
+S0059,Male,Bachelor,Free/Reduced
+S0060,Male,Master,Free/Reduced
+S0061,Male,High School,Free/Reduced
+S0062,Female,High School,Standard
+S0063,Male,Bachelor,Free/Reduced
+S0064,Male,Master,Free/Reduced
+S0065,Male,High School,Standard
+S0066,Male,Bachelor,Standard
+S0067,Female,PhD,Free/Reduced
+S0068,Male,High School,Free/Reduced
+S0069,Male,High School,Standard
+S0070,Male,Bachelor,Standard
+S0071,Female,High School,Standard
+S0072,Female,High School,Standard
+S0073,Female,Bachelor,Free/Reduced
+S0074,Male,Bachelor,Standard
+S0075,Male,Bachelor,Free/Reduced
+S0076,Male,Bachelor,Free/Reduced
+S0077,Male,Bachelor,Standard
+S0078,Male,Bachelor,Free/Reduced
+S0079,Female,Master,Free/Reduced
+S0080,Female,Master,Standard
+S0081,Female,Bachelor,Standard
+S0082,Female,Master,Free/Reduced
+S0083,Female,Master,Standard
+S0084,Male,High School,Standard
+S0085,Male,PhD,Standard
+S0086,Male,Master,Standard
+S0087,Male,High School,Standard
+S0088,Female,High School,Standard
+S0089,Male,Bachelor,Standard
+S0090,Female,Bachelor,Standard
+S0091,Female,Bachelor,Free/Reduced
+S0092,Male,Bachelor,Standard
+S0093,Female,High School,Free/Reduced
+S0094,Male,High School,Free/Reduced
+S0095,Male,Master,Standard
+S0096,Male,High School,Standard
+S0097,Male,Bachelor,Standard
+S0098,Male,High School,Free/Reduced
+S0099,Female,Bachelor,Standard
+S0100,Female,Bachelor,Standard
+S0101,Female,High School,Standard
+S0102,Female,Bachelor,Standard
+S0103,Female,Bachelor,Free/Reduced
+S0104,Female,High School,Free/Reduced
+S0105,Male,Bachelor,Standard
+S0106,Female,Bachelor,Standard
+S0107,Female,Bachelor,Standard
+S0108,Male,Bachelor,Standard
+S0109,Male,Master,Standard
+S0110,Female,High School,Standard
+S0111,Female,High School,Free/Reduced
+S0112,Male,Bachelor,Standard
+S0113,Male,Bachelor,Free/Reduced
+S0114,Male,Master,Standard
+S0115,Male,High School,Standard
+S0116,Female,Bachelor,Standard
+S0117,Male,Bachelor,Standard
+S0118,Male,High School,Standard
+S0119,Female,Bachelor,Free/Reduced
+S0120,Female,Bachelor,Free/Reduced
+S0121,Female,High School,Free/Reduced
+S0122,Female,Bachelor,Standard
+S0123,Male,High School,Standard
+S0124,Female,Master,Standard
+S0125,Female,High School,Free/Reduced
+S0126,Female,High School,Free/Reduced
+S0127,Male,High School,Standard
+S0128,Male,High School,Free/Reduced
+S0129,Female,High School,Standard
+S0130,Male,Bachelor,Standard
+S0131,Female,High School,Standard
+S0132,Female,High School,Standard
+S0133,Female,High School,Free/Reduced
+S0134,Female,Bachelor,Free/Reduced
+S0135,Female,High School,Standard
+S0136,Female,Bachelor,Standard
+S0137,Female,Bachelor,Standard
+S0138,Male,Bachelor,Standard
+S0139,Male,High School,Standard
+S0140,Male,Master,Standard
+S0141,Male,Bachelor,Standard
+S0142,Male,High School,Standard
+S0143,Male,Bachelor,Standard
+S0144,Female,Master,Free/Reduced
+S0145,Male,High School,Standard
+S0146,Female,Bachelor,Standard
+S0147,Female,Bachelor,Standard
+S0148,Female,High School,Free/Reduced
+S0149,Male,PhD,Standard
+S0150,Male,High School,Standard
+S0151,Female,High School,Free/Reduced
+S0152,Male,High School,Free/Reduced
+S0153,Female,Bachelor,Standard
+S0154,Male,Master,Standard
+S0155,Female,Master,Free/Reduced
+S0156,Male,Master,Standard
+S0157,Female,Bachelor,Standard
+S0158,Male,Bachelor,Standard
+S0159,Male,Bachelor,Standard
+S0160,Female,High School,Standard
+S0161,Male,Master,Standard
+S0162,Male,Bachelor,Standard
+S0163,Female,Bachelor,Standard
+S0164,Male,Bachelor,Standard
+S0165,Male,Master,Free/Reduced
+S0166,Female,High School,Standard
+S0167,Male,Bachelor,Standard
+S0168,Female,Bachelor,Standard
+S0169,Male,Master,Standard
+S0170,Male,High School,Standard
+S0171,Male,High School,Standard
+S0172,Male,Bachelor,Free/Reduced
+S0173,Female,Master,Standard
+S0174,Female,PhD,Free/Reduced
+S0175,Female,Bachelor,Free/Reduced
+S0176,Female,High School,Standard
+S0177,Male,High School,Standard
+S0178,Female,Bachelor,Free/Reduced
+S0179,Male,High School,Standard
+S0180,Male,Bachelor,Free/Reduced
+S0181,Male,Master,Free/Reduced
+S0182,Female,Bachelor,Standard
+S0183,Male,Bachelor,Free/Reduced
+S0184,Female,High School,Standard
+S0185,Male,High School,Standard
+S0186,Male,Bachelor,Standard
+S0187,Female,Bachelor,Standard
+S0188,Male,High School,Free/Reduced
+S0189,Male,High School,Free/Reduced
+S0190,Female,High School,Standard
+S0191,Male,Bachelor,Standard
+S0192,Male,Bachelor,Standard
+S0193,Female,Bachelor,Standard
+S0194,Female,Bachelor,Standard
+S0195,Male,High School,Standard
+S0196,Female,Bachelor,Free/Reduced
+S0197,Male,High School,Standard
+S0198,Male,Master,Standard
+S0199,Male,High School,Standard
+S0200,Female,Bachelor,Standard
+S0201,Male,High School,Standard
+S0202,Male,Master,Standard
+S0203,Female,High School,Standard
+S0204,Female,Master,Free/Reduced
+S0205,Male,High School,Standard
+S0206,Female,Master,Standard
+S0207,Male,Bachelor,Free/Reduced
+S0208,Female,High School,Standard
+S0209,Male,High School,Free/Reduced
+S0210,Male,Bachelor,Standard
+S0211,Female,Master,Standard
+S0212,Female,Master,Standard
+S0213,Female,High School,Standard
+S0214,Female,Bachelor,Free/Reduced
+S0215,Male,High School,Standard
+S0216,Female,High School,Free/Reduced
+S0217,Female,Bachelor,Free/Reduced
+S0218,Female,High School,Free/Reduced
+S0219,Male,High School,Free/Reduced
+S0220,Male,Master,Standard
+S0221,Female,Bachelor,Standard
+S0222,Female,Master,Free/Reduced
+S0223,Male,High School,Standard
+S0224,Male,Master,Standard
+S0225,Male,Bachelor,Standard
+S0226,Male,Bachelor,Standard
+S0227,Female,High School,Free/Reduced
+S0228,Female,Master,Standard
+S0229,Female,Bachelor,Standard
+S0230,Female,Master,Free/Reduced
+S0231,Male,Bachelor,Standard
+S0232,Female,Master,Free/Reduced
+S0233,Male,Bachelor,Standard
+S0234,Male,Master,Standard
+S0235,Male,High School,Standard
+S0236,Male,High School,Standard
+S0237,Male,Bachelor,Standard
+S0238,Male,Bachelor,Standard
+S0239,Male,Bachelor,Standard
+S0240,Male,Bachelor,Standard
+S0241,Female,Bachelor,Standard
+S0242,Female,Master,Standard
+S0243,Male,High School,Free/Reduced
+S0244,Female,Master,Free/Reduced
+S0245,Female,High School,Free/Reduced
+S0246,Male,Bachelor,Standard
+S0247,Male,Master,Standard
+S0248,Male,High School,Standard
+S0249,Female,High School,Free/Reduced
+S0250,Male,High School,Free/Reduced
+S0251,Male,Bachelor,Standard
+S0252,Female,Bachelor,Standard
+S0253,Female,High School,Free/Reduced
+S0254,Female,Master,Standard
+S0255,Male,High School,Standard
+S0256,Male,Bachelor,Standard
+S0257,Male,Bachelor,Free/Reduced
+S0258,Male,High School,Standard
+S0259,Female,High School,Standard
+S0260,Male,PhD,Standard
+S0261,Female,Bachelor,Standard
+S0262,Male,High School,Free/Reduced
+S0263,Female,Master,Free/Reduced
+S0264,Female,Bachelor,Standard
+S0265,Male,High School,Standard
+S0266,Female,Bachelor,Free/Reduced
+S0267,Female,Bachelor,Free/Reduced
+S0268,Male,High School,Standard
+S0269,Male,Master,Standard
+S0270,Female,High School,Standard
+S0271,Female,High School,Free/Reduced
+S0272,Male,High School,Standard
+S0273,Male,Master,Standard
+S0274,Male,Bachelor,Free/Reduced
+S0275,Female,Master,Standard
+S0276,Female,High School,Free/Reduced
+S0277,Male,Master,Standard
+S0278,Male,Bachelor,Standard
+S0279,Female,High School,Free/Reduced
+S0280,Male,High School,Free/Reduced
+S0281,Female,Master,Free/Reduced
+S0282,Female,High School,Free/Reduced
+S0283,Female,Bachelor,Standard
+S0284,Female,Bachelor,Standard
+S0285,Female,High School,Standard
+S0286,Male,PhD,Free/Reduced
+S0287,Female,Master,Standard
+S0288,Female,Bachelor,Free/Reduced
+S0289,Female,Bachelor,Free/Reduced
+S0290,Male,Bachelor,Free/Reduced
+S0291,Female,Bachelor,Free/Reduced
+S0292,Female,High School,Standard
+S0293,Male,Bachelor,Standard
+S0294,Male,High School,Free/Reduced
+S0295,Female,Bachelor,Standard
+S0296,Female,Bachelor,Standard
+S0297,Female,High School,Free/Reduced
+S0298,Male,PhD,Standard
+S0299,Male,High School,Standard
+S0300,Female,High School,Standard
+S0301,Male,Bachelor,Standard
+S0302,Female,Bachelor,Free/Reduced
+S0303,Female,High School,Standard
+S0304,Male,Bachelor,Standard
+S0305,Female,Bachelor,Standard
+S0306,Female,High School,Free/Reduced
+S0307,Male,PhD,Free/Reduced
+S0308,Male,High School,Standard
+S0309,Male,Bachelor,Standard
+S0310,Female,High School,Standard
+S0311,Male,Bachelor,Standard
+S0312,Male,Master,Standard
+S0313,Male,High School,Standard
+S0314,Male,High School,Standard
+S0315,Male,High School,Standard
+S0316,Female,High School,Standard
+S0317,Female,PhD,Standard
+S0318,Male,Bachelor,Standard
+S0319,Female,Bachelor,Free/Reduced
+S0320,Female,PhD,Standard
+S0321,Male,Master,Standard
+S0322,Female,Master,Free/Reduced
+S0323,Female,High School,Standard
+S0324,Male,High School,Free/Reduced
+S0325,Female,High School,Standard
+S0326,Male,High School,Free/Reduced
+S0327,Female,Bachelor,Standard
+S0328,Female,High School,Standard
+S0329,Male,Bachelor,Free/Reduced
+S0330,Female,Bachelor,Free/Reduced
+S0331,Male,High School,Standard
+S0332,Male,High School,Free/Reduced
+S0333,Female,Bachelor,Standard
+S0334,Male,Bachelor,Free/Reduced
+S0335,Male,Bachelor,Free/Reduced
+S0336,Female,Bachelor,Standard
+S0337,Male,High School,Free/Reduced
+S0338,Female,High School,Free/Reduced
+S0339,Male,High School,Free/Reduced
+S0340,Female,High School,Standard
+S0341,Male,Bachelor,Free/Reduced
+S0342,Male,PhD,Standard
+S0343,Female,High School,Standard
+S0344,Female,High School,Free/Reduced
+S0345,Male,Bachelor,Standard
+S0346,Female,Bachelor,Free/Reduced
+S0347,Female,High School,Standard
+S0348,Male,High School,Standard
+S0349,Male,Master,Free/Reduced
+S0350,Male,High School,Standard
+S0351,Female,Bachelor,Standard
+S0352,Male,Master,Standard
+S0353,Female,High School,Standard
+S0354,Female,Bachelor,Standard
+S0355,Male,High School,Standard
+S0356,Male,High School,Free/Reduced
+S0357,Female,High School,Free/Reduced
+S0358,Female,PhD,Free/Reduced
+S0359,Male,High School,Standard
+S0360,Female,High School,Free/Reduced
+S0361,Male,Master,Standard
+S0362,Male,High School,Free/Reduced
+S0363,Male,Master,Standard
+S0364,Female,Bachelor,Free/Reduced
+S0365,Female,Bachelor,Standard
+S0366,Female,Master,Standard
+S0367,Female,Bachelor,Free/Reduced
+S0368,Male,High School,Standard
+S0369,Male,PhD,Free/Reduced
+S0370,Female,Master,Free/Reduced
+S0371,Male,Master,Standard
+S0372,Female,Bachelor,Standard
+S0373,Female,Bachelor,Standard
+S0374,Male,Bachelor,Free/Reduced
+S0375,Female,High School,Free/Reduced
+S0376,Female,Bachelor,Standard
+S0377,Male,Bachelor,Free/Reduced
+S0378,Female,Bachelor,Standard
+S0379,Male,High School,Standard
+S0380,Male,Bachelor,Free/Reduced
+S0381,Female,Bachelor,Free/Reduced
+S0382,Female,Bachelor,Standard
+S0383,Male,PhD,Standard
+S0384,Female,Bachelor,Standard
+S0385,Female,High School,Standard
+S0386,Female,High School,Standard
+S0387,Female,Bachelor,Free/Reduced
+S0388,Male,Bachelor,Standard
+S0389,Female,Master,Standard
+S0390,Male,High School,Free/Reduced
+S0391,Male,High School,Standard
+S0392,Male,Bachelor,Standard
+S0393,Male,Bachelor,Free/Reduced
+S0394,Female,PhD,Standard
+S0395,Female,Master,Standard
+S0396,Female,Bachelor,Standard
+S0397,Male,Master,Standard
+S0398,Female,High School,Standard
+S0399,Male,Bachelor,Standard
+S0400,Male,Master,Standard
+S0401,Male,Bachelor,Free/Reduced
+S0402,Female,PhD,Standard
+S0403,Male,High School,Standard
+S0404,Female,High School,Standard
+S0405,Female,Bachelor,Free/Reduced
+S0406,Female,Master,Standard
+S0407,Male,High School,Free/Reduced
+S0408,Female,Master,Standard
+S0409,Male,High School,Free/Reduced
+S0410,Female,Bachelor,Standard
+S0411,Female,Bachelor,Standard
+S0412,Male,High School,Standard
+S0413,Male,Bachelor,Standard
+S0414,Female,Bachelor,Free/Reduced
+S0415,Male,Bachelor,Standard
+S0416,Female,High School,Standard
+S0417,Female,High School,Standard
+S0418,Female,PhD,Free/Reduced
+S0419,Female,Bachelor,Standard
+S0420,Male,Master,Free/Reduced
+S0421,Female,Bachelor,Free/Reduced
+S0422,Female,Master,Standard
+S0423,Male,High School,Free/Reduced
+S0424,Male,Bachelor,Standard
+S0425,Male,Bachelor,Standard
+S0426,Male,High School,Standard
+S0427,Male,High School,Standard
+S0428,Male,Bachelor,Standard
+S0429,Female,Master,Standard
+S0430,Male,Bachelor,Free/Reduced
+S0431,Male,High School,Standard
+S0432,Male,PhD,Standard
+S0433,Female,High School,Standard
+S0434,Male,High School,Standard
+S0435,Male,PhD,Free/Reduced
+S0436,Female,Master,Standard
+S0437,Male,Master,Standard
+S0438,Male,Master,Standard
+S0439,Female,Bachelor,Free/Reduced
+S0440,Female,High School,Standard
+S0441,Female,High School,Free/Reduced
+S0442,Female,Master,Standard
+S0443,Male,Master,Standard
+S0444,Female,Bachelor,Standard
+S0445,Male,Bachelor,Standard
+S0446,Male,High School,Standard
+S0447,Female,High School,Standard
+S0448,Male,Master,Standard
+S0449,Male,High School,Standard
+S0450,Female,Bachelor,Standard
+S0451,Male,Master,Standard
+S0452,Female,Bachelor,Standard
+S0453,Male,Bachelor,Standard
+S0454,Female,High School,Standard
+S0455,Male,High School,Free/Reduced
+S0456,Male,High School,Standard
+S0457,Male,High School,Standard
+S0458,Female,High School,Standard
+S0459,Male,High School,Free/Reduced
+S0460,Female,High School,Standard
+S0461,Male,High School,Standard
+S0462,Female,PhD,Standard
+S0463,Female,High School,Standard
+S0464,Female,Bachelor,Free/Reduced
+S0465,Male,Master,Standard
+S0466,Female,High School,Standard
+S0467,Female,Bachelor,Standard
+S0468,Female,Master,Free/Reduced
+S0469,Male,Bachelor,Free/Reduced
+S0470,Female,High School,Free/Reduced
+S0471,Female,Bachelor,Free/Reduced
+S0472,Female,Bachelor,Free/Reduced
+S0473,Male,Bachelor,Standard
+S0474,Female,High School,Standard
+S0475,Female,High School,Standard
+S0476,Male,Master,Standard
+S0477,Female,High School,Free/Reduced
+S0478,Female,High School,Standard
+S0479,Male,Bachelor,Standard
+S0480,Female,Master,Standard
+S0481,Female,High School,Standard
+S0482,Male,High School,Standard
+S0483,Female,Bachelor,Standard
+S0484,Male,Bachelor,Standard
+S0485,Male,Bachelor,Standard
+S0486,Female,Master,Standard
+S0487,Female,High School,Standard
+S0488,Female,High School,Free/Reduced
+S0489,Female,Bachelor,Standard
+S0490,Male,High School,Standard
+S0491,Female,Bachelor,Free/Reduced
+S0492,Male,Master,Free/Reduced
+S0493,Male,High School,Standard
+S0494,Male,Bachelor,Standard
+S0495,Female,High School,Standard
+S0496,Female,Bachelor,Free/Reduced
+S0497,Male,Bachelor,Standard
+S0498,Female,Bachelor,Free/Reduced
+S0499,Female,High School,Free/Reduced
+S0500,Female,PhD,Standard
+S0501,Female,Master,Standard
+S0502,Male,Master,Free/Reduced
+S0503,Male,Master,Free/Reduced
+S0504,Female,High School,Free/Reduced
+S0505,Female,Bachelor,Standard
+S0506,Female,High School,Free/Reduced
+S0507,Male,Master,Free/Reduced
+S0508,Female,High School,Free/Reduced
+S0509,Male,High School,Standard
+S0510,Male,Bachelor,Standard
+S0511,Male,High School,Standard
+S0512,Male,Bachelor,Free/Reduced
+S0513,Male,High School,Free/Reduced
+S0514,Female,Bachelor,Standard
+S0515,Male,Master,Standard
+S0516,Male,Bachelor,Standard
+S0517,Male,High School,Standard
+S0518,Female,High School,Free/Reduced
+S0519,Female,High School,Standard
+S0520,Female,High School,Standard
+S0521,Female,Bachelor,Free/Reduced
+S0522,Male,High School,Standard
+S0523,Male,High School,Standard
+S0524,Male,High School,Standard
+S0525,Male,Master,Standard
+S0526,Female,High School,Standard
+S0527,Male,High School,Standard
+S0528,Female,Bachelor,Standard
+S0529,Male,High School,Standard
+S0530,Male,Master,Standard
+S0531,Female,High School,Standard
+S0532,Male,Bachelor,Standard
+S0533,Female,Bachelor,Standard
+S0534,Female,Master,Standard
+S0535,Female,Bachelor,Free/Reduced
+S0536,Male,Master,Standard
+S0537,Female,Bachelor,Standard
+S0538,Female,Bachelor,Standard
+S0539,Male,Bachelor,Standard
+S0540,Female,Bachelor,Standard
+S0541,Female,Bachelor,Standard
+S0542,Male,High School,Standard
+S0543,Female,High School,Free/Reduced
+S0544,Female,Bachelor,Standard
+S0545,Male,High School,Standard
+S0546,Female,Bachelor,Free/Reduced
+S0547,Female,High School,Standard
+S0548,Male,Bachelor,Standard
+S0549,Male,Bachelor,Standard
+S0550,Female,Bachelor,Standard
+S0551,Male,Bachelor,Free/Reduced
+S0552,Female,High School,Standard
+S0553,Female,High School,Standard
+S0554,Female,Bachelor,Free/Reduced
+S0555,Male,Master,Standard
+S0556,Male,Bachelor,Standard
+S0557,Male,Bachelor,Standard
+S0558,Female,Bachelor,Standard
+S0559,Male,Bachelor,Standard
+S0560,Male,Bachelor,Standard
+S0561,Male,Bachelor,Standard
+S0562,Female,High School,Free/Reduced
+S0563,Female,High School,Standard
+S0564,Female,Bachelor,Free/Reduced
+S0565,Male,Bachelor,Standard
+S0566,Male,Master,Free/Reduced
+S0567,Male,High School,Standard
+S0568,Male,High School,Free/Reduced
+S0569,Male,Master,Free/Reduced
+S0570,Female,High School,Standard
+S0571,Male,Master,Standard
+S0572,Male,High School,Free/Reduced
+S0573,Female,Bachelor,Free/Reduced
+S0574,Female,Bachelor,Standard
+S0575,Male,High School,Free/Reduced
+S0576,Female,High School,Standard
+S0577,Male,High School,Standard
+S0578,Female,High School,Standard
+S0579,Male,High School,Free/Reduced
+S0580,Male,Master,Standard
+S0581,Female,High School,Standard
+S0582,Male,Bachelor,Standard
+S0583,Male,High School,Standard
+S0584,Male,Master,Standard
+S0585,Female,Master,Standard
+S0586,Female,PhD,Free/Reduced
+S0587,Male,Master,Standard
+S0588,Female,High School,Standard
+S0589,Male,Bachelor,Standard
+S0590,Female,High School,Standard
+S0591,Male,Master,Standard
+S0592,Male,Bachelor,Standard
+S0593,Male,Bachelor,Standard
+S0594,Male,Master,Standard
+S0595,Male,Master,Standard
+S0596,Male,PhD,Free/Reduced
+S0597,Male,High School,Standard
+S0598,Female,High School,Standard
+S0599,Male,High School,Standard
+S0600,Male,Bachelor,Standard
+S0601,Female,Bachelor,Standard
+S0602,Male,High School,Standard
+S0603,Female,Master,Standard
+S0604,Female,High School,Standard
+S0605,Female,Bachelor,Standard
+S0606,Female,Master,Standard
+S0607,Female,Bachelor,Free/Reduced
+S0608,Male,Bachelor,Standard
+S0609,Female,High School,Standard
+S0610,Female,High School,Standard
+S0611,Female,Bachelor,Standard
+S0612,Male,Bachelor,Standard
+S0613,Male,High School,Standard
+S0614,Male,PhD,Standard
+S0615,Female,Bachelor,Standard
+S0616,Male,Master,Standard
+S0617,Female,Bachelor,Standard
+S0618,Male,PhD,Standard
+S0619,Male,High School,Free/Reduced
+S0620,Female,High School,Standard
+S0621,Female,Master,Free/Reduced
+S0622,Female,Master,Free/Reduced
+S0623,Female,Bachelor,Standard
+S0624,Female,High School,Standard
+S0625,Female,High School,Free/Reduced
+S0626,Male,Master,Standard
+S0627,Female,Master,Standard
+S0628,Female,High School,Standard
+S0629,Female,High School,Standard
+S0630,Female,Bachelor,Free/Reduced
+S0631,Female,Bachelor,Free/Reduced
+S0632,Male,Bachelor,Free/Reduced
+S0633,Female,Bachelor,Free/Reduced
+S0634,Female,PhD,Standard
+S0635,Male,High School,Standard
+S0636,Female,Bachelor,Free/Reduced
+S0637,Female,Bachelor,Free/Reduced
+S0638,Female,Bachelor,Free/Reduced
+S0639,Female,Master,Free/Reduced
+S0640,Male,Bachelor,Standard
+S0641,Female,Bachelor,Standard
+S0642,Female,High School,Free/Reduced
+S0643,Male,Bachelor,Standard
+S0644,Female,High School,Standard
+S0645,Male,High School,Standard
+S0646,Female,Bachelor,Standard
+S0647,Female,Bachelor,Standard
+S0648,Female,PhD,Standard
+S0649,Female,Bachelor,Standard
+S0650,Male,Master,Standard
+S0651,Male,High School,Standard
+S0652,Female,Bachelor,Standard
+S0653,Male,PhD,Standard
+S0654,Female,Bachelor,Standard
+S0655,Male,Master,Standard
+S0656,Female,Bachelor,Standard
+S0657,Female,High School,Standard
+S0658,Male,Bachelor,Free/Reduced
+S0659,Male,High School,Standard
+S0660,Male,High School,Standard
+S0661,Female,High School,Standard
+S0662,Male,High School,Standard
+S0663,Female,Bachelor,Free/Reduced
+S0664,Male,Master,Free/Reduced
+S0665,Female,Bachelor,Standard
+S0666,Female,Master,Free/Reduced
+S0667,Male,Bachelor,Standard
+S0668,Male,High School,Standard
+S0669,Male,High School,Standard
+S0670,Female,Master,Standard
+S0671,Female,Bachelor,Standard
+S0672,Female,Master,Standard
+S0673,Female,High School,Standard
+S0674,Female,Bachelor,Standard
+S0675,Male,Master,Standard
+S0676,Male,PhD,Standard
+S0677,Female,High School,Standard
+S0678,Female,PhD,Standard
+S0679,Female,Bachelor,Standard
+S0680,Female,Master,Standard
+S0681,Male,Bachelor,Free/Reduced
+S0682,Female,Bachelor,Standard
+S0683,Female,Bachelor,Standard
+S0684,Male,Master,Free/Reduced
+S0685,Male,High School,Standard
+S0686,Female,Bachelor,Standard
+S0687,Male,Bachelor,Standard
+S0688,Male,Bachelor,Standard
+S0689,Male,Bachelor,Standard
+S0690,Female,Bachelor,Standard
+S0691,Male,Bachelor,Standard
+S0692,Male,Bachelor,Free/Reduced
+S0693,Male,Bachelor,Standard
+S0694,Male,Bachelor,Standard
+S0695,Male,Master,Free/Reduced
+S0696,Female,Bachelor,Standard
+S0697,Male,High School,Free/Reduced
+S0698,Male,Bachelor,Standard
+S0699,Female,High School,Standard
+S0700,Female,High School,Free/Reduced
+S0701,Female,Master,Standard
+S0702,Female,Bachelor,Free/Reduced
+S0703,Male,Bachelor,Standard
+S0704,Male,PhD,Free/Reduced
+S0705,Male,High School,Standard
+S0706,Male,High School,Standard
+S0707,Female,High School,Standard
+S0708,Male,High School,Free/Reduced
+S0709,Female,Bachelor,Standard
+S0710,Female,Master,Standard
+S0711,Female,Bachelor,Free/Reduced
+S0712,Female,High School,Standard
+S0713,Female,Bachelor,Standard
+S0714,Male,High School,Standard
+S0715,Female,Bachelor,Standard
+S0716,Female,Bachelor,Standard
+S0717,Female,High School,Standard
+S0718,Male,Master,Standard
+S0719,Female,Master,Standard
+S0720,Female,High School,Standard
+S0721,Male,Bachelor,Standard
+S0722,Female,Bachelor,Free/Reduced
+S0723,Male,High School,Standard
+S0724,Male,High School,Standard
+S0725,Female,Bachelor,Standard
+S0726,Female,Master,Standard
+S0727,Male,Bachelor,Free/Reduced
+S0728,Male,Bachelor,Standard
+S0729,Male,Bachelor,Free/Reduced
+S0730,Female,Bachelor,Standard
+S0731,Male,High School,Free/Reduced
+S0732,Female,Bachelor,Free/Reduced
+S0733,Male,Master,Standard
+S0734,Female,Master,Free/Reduced
+S0735,Male,Master,Free/Reduced
+S0736,Male,High School,Standard
+S0737,Male,Bachelor,Standard
+S0738,Female,Bachelor,Standard
+S0739,Female,High School,Standard
+S0740,Male,High School,Standard
+S0741,Male,Master,Standard
+S0742,Female,Bachelor,Standard
+S0743,Male,Bachelor,Standard
+S0744,Male,High School,Standard
+S0745,Male,Bachelor,Standard
+S0746,Female,High School,Standard
+S0747,Male,High School,Free/Reduced
+S0748,Male,Bachelor,Standard
+S0749,Male,High School,Free/Reduced
+S0750,Female,PhD,Free/Reduced
+S0751,Female,Bachelor,Free/Reduced
+S0752,Female,High School,Standard
+S0753,Male,High School,Free/Reduced
+S0754,Male,Bachelor,Free/Reduced
+S0755,Male,High School,Free/Reduced
+S0756,Female,High School,Standard
+S0757,Male,Bachelor,Standard
+S0758,Female,High School,Standard
+S0759,Male,Bachelor,Standard
+S0760,Male,Bachelor,Standard
+S0761,Male,High School,Free/Reduced
+S0762,Female,Master,Standard
+S0763,Female,Bachelor,Standard
+S0764,Female,Bachelor,Free/Reduced
+S0765,Male,High School,Standard
+S0766,Female,Bachelor,Standard
+S0767,Female,High School,Free/Reduced
+S0768,Male,Bachelor,Free/Reduced
+S0769,Female,High School,Standard
+S0770,Female,PhD,Standard
+S0771,Male,High School,Standard
+S0772,Male,Master,Standard
+S0773,Male,Master,Free/Reduced
+S0774,Female,Bachelor,Free/Reduced
+S0775,Male,High School,Standard
+S0776,Male,Bachelor,Standard
+S0777,Female,PhD,Standard
+S0778,Male,Bachelor,Standard
+S0779,Male,Bachelor,Standard
+S0780,Male,High School,Standard
+S0781,Female,Master,Free/Reduced
+S0782,Male,High School,Standard
+S0783,Male,High School,Standard
+S0784,Female,High School,Standard
+S0785,Male,Bachelor,Free/Reduced
+S0786,Female,Master,Free/Reduced
+S0787,Male,Master,Standard
+S0788,Female,High School,Standard
+S0789,Female,Bachelor,Free/Reduced
+S0790,Female,Master,Standard
+S0791,Male,Bachelor,Standard
+S0792,Male,High School,Standard
+S0793,Female,Bachelor,Free/Reduced
+S0794,Male,Bachelor,Standard
+S0795,Male,PhD,Standard
+S0796,Female,Bachelor,Standard
+S0797,Female,High School,Standard
+S0798,Female,Bachelor,Standard
+S0799,Female,High School,Free/Reduced
+S0800,Female,Master,Free/Reduced
+S0801,Male,Bachelor,Standard
+S0802,Male,High School,Standard
+S0803,Female,Bachelor,Free/Reduced
+S0804,Female,High School,Free/Reduced
+S0805,Male,High School,Standard
+S0806,Male,Bachelor,Standard
+S0807,Male,Master,Standard
+S0808,Female,Master,Standard
+S0809,Female,Bachelor,Standard
+S0810,Male,High School,Standard
+S0811,Male,Bachelor,Standard
+S0812,Female,Bachelor,Free/Reduced
+S0813,Male,High School,Free/Reduced
+S0814,Male,Master,Free/Reduced
+S0815,Male,PhD,Standard
+S0816,Female,High School,Standard
+S0817,Female,Master,Standard
+S0818,Male,Bachelor,Standard
+S0819,Male,High School,Standard
+S0820,Female,Bachelor,Standard
+S0821,Female,High School,Free/Reduced
+S0822,Male,High School,Free/Reduced
+S0823,Male,PhD,Standard
+S0824,Female,Bachelor,Free/Reduced
+S0825,Male,High School,Standard
+S0826,Male,Bachelor,Standard
+S0827,Female,PhD,Standard
+S0828,Male,Bachelor,Standard
+S0829,Male,Master,Standard
+S0830,Female,Master,Standard
+S0831,Male,High School,Standard
+S0832,Male,Bachelor,Free/Reduced
+S0833,Female,Bachelor,Standard
+S0834,Male,Master,Standard
+S0835,Female,Bachelor,Standard
+S0836,Female,High School,Standard
+S0837,Female,High School,Standard
+S0838,Female,Bachelor,Standard
+S0839,Male,Master,Free/Reduced
+S0840,Female,Master,Standard
+S0841,Male,Bachelor,Standard
+S0842,Male,High School,Standard
+S0843,Male,High School,Free/Reduced
+S0844,Female,Master,Standard
+S0845,Female,Bachelor,Standard
+S0846,Female,Master,Free/Reduced
+S0847,Female,High School,Standard
+S0848,Male,Bachelor,Standard
+S0849,Female,Master,Standard
+S0850,Female,High School,Standard
+S0851,Male,High School,Free/Reduced
+S0852,Male,Bachelor,Standard
+S0853,Male,Bachelor,Standard
+S0854,Female,PhD,Standard
+S0855,Male,Master,Standard
+S0856,Female,Bachelor,Standard
+S0857,Female,High School,Free/Reduced
+S0858,Male,Bachelor,Standard
+S0859,Male,Master,Free/Reduced
+S0860,Male,Bachelor,Free/Reduced
+S0861,Male,PhD,Standard
+S0862,Male,Bachelor,Free/Reduced
+S0863,Female,High School,Free/Reduced
+S0864,Male,Bachelor,Standard
+S0865,Female,Bachelor,Standard
+S0866,Female,High School,Standard
+S0867,Female,High School,Standard
+S0868,Female,Bachelor,Free/Reduced
+S0869,Male,High School,Standard
+S0870,Female,High School,Standard
+S0871,Female,Bachelor,Standard
+S0872,Male,Master,Standard
+S0873,Male,Bachelor,Free/Reduced
+S0874,Female,PhD,Free/Reduced
+S0875,Female,Master,Free/Reduced
+S0876,Male,Bachelor,Standard
+S0877,Female,High School,Standard
+S0878,Male,Master,Free/Reduced
+S0879,Female,High School,Standard
+S0880,Female,Master,Standard
+S0881,Male,Bachelor,Standard
+S0882,Female,Bachelor,Standard
+S0883,Male,Bachelor,Standard
+S0884,Female,Bachelor,Standard
+S0885,Female,Master,Standard
+S0886,Female,High School,Free/Reduced
+S0887,Male,Master,Standard
+S0888,Male,High School,Standard
+S0889,Female,Master,Free/Reduced
+S0890,Female,Master,Standard
+S0891,Male,Bachelor,Standard
+S0892,Female,High School,Free/Reduced
+S0893,Female,Master,Free/Reduced
+S0894,Female,Master,Standard
+S0895,Male,High School,Free/Reduced
+S0896,Male,Bachelor,Standard
+S0897,Male,Master,Standard
+S0898,Male,High School,Standard
+S0899,Male,Bachelor,Standard
+S0900,Male,Bachelor,Standard
+S0901,Male,High School,Standard
+S0902,Male,Master,Free/Reduced
+S0903,Female,High School,Standard
+S0904,Male,Master,Standard
+S0905,Male,Bachelor,Free/Reduced
+S0906,Female,Bachelor,Free/Reduced
+S0907,Female,Bachelor,Standard
+S0908,Female,Bachelor,Free/Reduced
+S0909,Male,Master,Free/Reduced
+S0910,Male,Bachelor,Standard
+S0911,Female,Master,Standard
+S0912,Female,Bachelor,Standard
+S0913,Male,High School,Standard
+S0914,Female,High School,Standard
+S0915,Female,Master,Standard
+S0916,Female,Bachelor,Free/Reduced
+S0917,Female,Bachelor,Standard
+S0918,Female,Bachelor,Standard
+S0919,Male,Bachelor,Free/Reduced
+S0920,Female,Bachelor,Free/Reduced
+S0921,Female,Bachelor,Free/Reduced
+S0922,Male,PhD,Standard
+S0923,Male,High School,Standard
+S0924,Male,Bachelor,Standard
+S0925,Male,High School,Standard
+S0926,Female,Master,Standard
+S0927,Male,Bachelor,Free/Reduced
+S0928,Female,Bachelor,Standard
+S0929,Female,Master,Standard
+S0930,Female,Bachelor,Standard
+S0931,Female,High School,Standard
+S0932,Female,Bachelor,Standard
+S0933,Female,High School,Free/Reduced
+S0934,Male,Master,Standard
+S0935,Female,Bachelor,Free/Reduced
+S0936,Male,Master,Standard
+S0937,Male,Master,Standard
+S0938,Female,Master,Free/Reduced
+S0939,Male,Bachelor,Standard
+S0940,Male,High School,Standard
+S0941,Female,Bachelor,Standard
+S0942,Female,Master,Standard
+S0943,Female,Master,Standard
+S0944,Female,Master,Standard
+S0945,Female,High School,Standard
+S0946,Female,High School,Standard
+S0947,Female,Master,Standard
+S0948,Male,High School,Free/Reduced
+S0949,Female,Bachelor,Free/Reduced
+S0950,Female,Bachelor,Standard
+S0951,Male,High School,Standard
+S0952,Male,Bachelor,Standard
+S0953,Female,PhD,Standard
+S0954,Female,Master,Standard
+S0955,Female,Bachelor,Free/Reduced
+S0956,Male,Bachelor,Standard
+S0957,Female,Master,Standard
+S0958,Female,Bachelor,Standard
+S0959,Female,Bachelor,Free/Reduced
+S0960,Male,Bachelor,Standard
+S0961,Female,High School,Standard
+S0962,Male,High School,Free/Reduced
+S0963,Male,Master,Standard
+S0964,Female,Bachelor,Standard
+S0965,Male,High School,Standard
+S0966,Male,High School,Standard
+S0967,Male,PhD,Standard
+S0968,Male,Bachelor,Standard
+S0969,Male,Bachelor,Standard
+S0970,Female,High School,Standard
+S0971,Female,PhD,Free/Reduced
+S0972,Female,Master,Free/Reduced
+S0973,Male,Bachelor,Free/Reduced
+S0974,Male,High School,Free/Reduced
+S0975,Female,Bachelor,Free/Reduced
+S0976,Female,Master,Standard
+S0977,Male,Master,Standard
+S0978,Female,PhD,Standard
+S0979,Male,Bachelor,Standard
+S0980,Female,High School,Standard
+S0981,Male,Bachelor,Standard
+S0982,Male,Master,Standard
+S0983,Male,High School,Standard
+S0984,Male,High School,Free/Reduced
+S0985,Female,Bachelor,Standard
+S0986,Female,Bachelor,Standard
+S0987,Female,Master,Standard
+S0988,Male,High School,Standard
+S0989,Female,High School,Standard
+S0990,Male,High School,Standard
+S0991,Male,Bachelor,Standard
+S0992,Female,Master,Standard
+S0993,Female,Bachelor,Standard
+S0994,Male,Bachelor,Free/Reduced
+S0995,Male,High School,Free/Reduced
+S0996,Female,Bachelor,Standard
+S0997,Female,PhD,Standard
+S0998,Male,Master,Standard
+S0999,Female,High School,Free/Reduced
+S1000,Female,Bachelor,Standard

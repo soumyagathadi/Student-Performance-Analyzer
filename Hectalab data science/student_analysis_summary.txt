@@ -1,0 +1,21 @@
+STUDENT PERFORMANCE ANALYTICS SUMMARY
+====================================
+Total Students: 1000
+Overall Pass Rate: 80.2%
+Average Marks: 64.0 (Std Dev: 16.2)
+Average Attendance: 81.9%
+At-Risk Students: 142 (14.2%)
+Correlation (Attendance vs Marks): 0.422
+
+TOP 10 AT-RISK STUDENTS
+------------------------
+S0816 | David Clark | Avg: 9.9 | Attendance: 67.5% | Risk: Low Marks, Poor Attendance
+S0454 | Sarah Wilson | Avg: 14.5 | Attendance: 56.4% | Risk: Low Marks, Poor Attendance
+S0456 | Noah Wilson | Avg: 18.7 | Attendance: 65.9% | Risk: Low Marks, Poor Attendance
+S0949 | David Taylor | Avg: 20.2 | Attendance: 81.8% | Risk: Low Marks
+S0323 | Noah Brown | Avg: 20.6 | Attendance: 71.1% | Risk: Low Marks
+S0568 | David Smith | Avg: 21.6 | Attendance: 79.8% | Risk: Low Marks
+S0843 | Michael Lee | Avg: 21.9 | Attendance: 76.0% | Risk: Low Marks
+S0916 | Michael Clark | Avg: 22.4 | Attendance: 80.7% | Risk: Low Marks
+S0896 | David Clark | Avg: 24.3 | Attendance: 54.5% | Risk: Low Marks, Poor Attendance
+S0252 | Olivia Taylor | Avg: 24.6 | Attendance: 82.2% | Risk: Low Marks
